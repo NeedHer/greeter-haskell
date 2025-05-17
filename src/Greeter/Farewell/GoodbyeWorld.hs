@@ -1,4 +1,4 @@
-module Greeter.Goodbye.GoodbyeWorld where
+module Greeter.Farewell.GoodbyeWorld where
 
 data GoodbyeWorld = GoodbyeWorld { name :: String }
 
